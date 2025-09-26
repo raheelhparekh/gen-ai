@@ -1,0 +1,17 @@
+{
+  "name": "agentsdk",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "basic_agent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@openai/agents": "^0.1.6",
+    "dotenv": "^17.2.2",
+    "zod": "^3.25.76"
+  }
+}
